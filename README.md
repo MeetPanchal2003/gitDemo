@@ -1,4 +1,4 @@
 # gitDemo
-This is my first Repoitory
-
 Author - Meet Panchal 2003
+
+Note:- This is my first Repository
